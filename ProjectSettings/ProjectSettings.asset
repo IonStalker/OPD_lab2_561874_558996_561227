@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 30
-  productGUID: 00000000000000000000000000000000
+  productGUID: 55319eb3fdb75f24ab6340686900f8b2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -766,7 +766,7 @@ PlayerSettings:
   cloudProjectId: 0275eab1-2881-41ce-a34e-0707e31c1fa8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: OPD_LABA2
   organizationId: rufovismupb9090
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
