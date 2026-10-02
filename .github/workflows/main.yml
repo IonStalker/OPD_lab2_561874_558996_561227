@@ -11,11 +11,11 @@ permissions:
 
 jobs:
   testProject:
-    name: Test in ${{ lab_opd.testMode }}
+    name: Test in ${{ matrix.testMode }}
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
-      lab_opd:
+      matrix:
         projectPath:
           - ./
         testMode:
