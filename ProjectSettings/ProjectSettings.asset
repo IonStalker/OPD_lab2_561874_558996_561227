@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 30
-  productGUID: 00000000000000000000000000000000
+<<<<<<< HEAD
+  productGUID: a04e65d71ca87a141a9c622f0a966f08
+=======
+  productGUID: 55319eb3fdb75f24ab6340686900f8b2
+>>>>>>> origin/Junior_Work
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -760,13 +764,13 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
   cloudProjectId: 0275eab1-2881-41ce-a34e-0707e31c1fa8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: OPD_LABA2
   organizationId: rufovismupb9090
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
